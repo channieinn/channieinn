@@ -1,38 +1,16 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Hello | Annie's Channel</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <!-- Tailwind CSS CDN -->
-  <script src="https://cdn.tailwindcss.com"></script>
-</head>
+Welcome to my channel 💕
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EC4899&width=435&lines=Hello!+I'm+Annie+%F0%9F%8C%B8;Welcome+to+my+GitHub!" alt="Typing SVG" /> </div>
+🌸 I am channieinn
+My name is Chaeyun Han
+You can call me 'HAN' or 'Annie'
+Birth 2004.09.09
+Live in South Korea
 
-<body class="bg-pink-50 text-gray-800 font-sans">
+#Annie_Core
 
-  <!-- Header Section -->
-  <header class="bg-white border-b border-gray-200 shadow-sm py-4">
-    <div class="max-w-4xl mx-auto px-4 text-center">
-      <h1 class="text-3xl font-bold text-pink-500">Welcome to my channel</h1>
-    </div>
-  </header>
+💖 I like...
+I like beauty and makeup
+I like music
 
-  <!-- Profile Intro Section -->
-  <section class="max-w-3xl mx-auto px-4 py-10">
-    <h2 class="text-xl font-semibold text-pink-400 mb-2">I am channieinn</h2>
-    <p class="mb-1">: &gt; My name is <span class="font-medium">Chaeyun Han</span></p>
-    <p class="mb-3">: &gt; You can call me <span class="text-pink-500 font-semibold">'HAN'</span> or <span class="text-pink-400 font-semibold">'Annie'</span></p>
-    <p class="text-gray-500 italic mb-6">#Annie_Core</p>
-
-    <h2 class="text-xl font-semibold text-pink-400 mb-2">I like...</h2>
-    <p class="mb-1">: &gt; I like <span class="font-medium">beauty</span></p>
-    <p>: &gt; I like <span class="font-medium">music</span></p>
-  </section>
-
-  <!-- Footer -->
-  <footer class="text-center text-sm text-gray-400 py-6 bg-white border-t">
-    © 2025 Annie | channieinn. All rights reserved.
-  </footer>
-
-</body>
-</html>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=material-palenight&hide_border=true&bg_color=fdf2f8&title_color=ec4899&icon_color=f472b6&text_color=6b7280" alt="GitHub Stats" /> </div> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=material-palenight&hide_border=true&bg_color=fdf2f8&title_color=ec4899&text_color=6b7280" alt="Top Languages" /> </div>
+<div align="center"> <i>© 2025 Annie | channieinn. All rights reserved.</i> </div> <!-- 핑크 라인 장식 --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=ec4899&height=100&section=footer" /> </div>
