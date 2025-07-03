@@ -8,13 +8,13 @@
 <br>
 
 <style>
-h2{color:pink;}
+h2 {color:pink;}
 </style>
 <h2>I am channieinn</h2>
 <p>: > My name is Chaeyun Han</p>
 <p>: > You can call me 'HAN' or 'Annie'</p>
 <style>
-p1{color:grey;}
+p1 {color:grey;}
 </style>
 <p1> #Annie_Core</p>
 <br>
