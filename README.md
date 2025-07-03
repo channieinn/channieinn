@@ -1,27 +1,38 @@
-<html>
-
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<title><hello></title>
+  <meta charset="UTF-8">
+  <title>Hello | Annie's Channel</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
 </head>
 
-<h1>welcome to my channel</h1>
-<br>
+<body class="bg-pink-50 text-gray-800 font-sans">
 
-<style>
-h2 {color:pink;}
-</style>
-<h2>I am channieinn</h2>
-<p>: > My name is Chaeyun Han</p>
-<p>: > You can call me 'HAN' or 'Annie'</p>
-<style>
-p1 {color:grey;}
-</style>
-<p1> #Annie_Core</p>
-<br>
+  <!-- Header Section -->
+  <header class="bg-white border-b border-gray-200 shadow-sm py-4">
+    <div class="max-w-4xl mx-auto px-4 text-center">
+      <h1 class="text-3xl font-bold text-pink-500">Welcome to my channel</h1>
+    </div>
+  </header>
 
-<h2>I like...</h2>
-<p>: > I like beauty</p>
-<p>: > I like music</p>
-<br>
+  <!-- Profile Intro Section -->
+  <section class="max-w-3xl mx-auto px-4 py-10">
+    <h2 class="text-xl font-semibold text-pink-400 mb-2">I am channieinn</h2>
+    <p class="mb-1">: &gt; My name is <span class="font-medium">Chaeyun Han</span></p>
+    <p class="mb-3">: &gt; You can call me <span class="text-pink-500 font-semibold">'HAN'</span> or <span class="text-pink-400 font-semibold">'Annie'</span></p>
+    <p class="text-gray-500 italic mb-6">#Annie_Core</p>
 
+    <h2 class="text-xl font-semibold text-pink-400 mb-2">I like...</h2>
+    <p class="mb-1">: &gt; I like <span class="font-medium">beauty</span></p>
+    <p>: &gt; I like <span class="font-medium">music</span></p>
+  </section>
+
+  <!-- Footer -->
+  <footer class="text-center text-sm text-gray-400 py-6 bg-white border-t">
+    © 2025 Annie | channieinn. All rights reserved.
+  </footer>
+
+</body>
 </html>
