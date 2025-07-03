@@ -11,6 +11,3 @@ Live in South Korea
 💖 I like...
 I like beauty and makeup
 I like music
-
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=material-palenight&hide_border=true&bg_color=fdf2f8&title_color=ec4899&icon_color=f472b6&text_color=6b7280" alt="GitHub Stats" /> </div> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=material-palenight&hide_border=true&bg_color=fdf2f8&title_color=ec4899&text_color=6b7280" alt="Top Languages" /> </div>
-<div align="center"> <i>© 2025 Annie | channieinn. All rights reserved.</i> </div> <!-- 핑크 라인 장식 --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=ec4899&height=100&section=footer" /> </div>
